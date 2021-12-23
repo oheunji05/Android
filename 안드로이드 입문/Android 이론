@@ -1,0 +1,14 @@
+색깔: #ARGB
+
+Linear Layout) orientation - 방향 설정
+               gravity - 정렬
+               weight - 분할
+               
+Table Layout) TableRow 안에 버튼 추가
+              stretchColums - 여유 공간이 있다면 그 여유 공간까지 모두 채움 
+                              예) 버튼이 1,2,3 있으면 stretchColums 0,1,2 (0이 첫 번째 버튼)
+              layout span
+
+
+
+              
